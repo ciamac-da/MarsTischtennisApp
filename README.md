@@ -1,4 +1,4 @@
-This App is my final project, that I made with two collagues.
+This App is my final project, that I made with my collague.
 The Repository is private so you just can have a look on our App using link below
 https://mars-tischtennis.herokuapp.com/
 ![](readmeImage/1.jpg)
